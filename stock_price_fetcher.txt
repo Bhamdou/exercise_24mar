@@ -1,0 +1,18 @@
+In this exercise, we will create a simple Python script to fetch stock prices from a free API called Alpha Vantage. This exercise will give you some exposure to working with APIs and handling JSON data, which are valuable skills in the job market.
+
+First, you need to sign up for a free API key from Alpha Vantage: https://www.alphavantage.co/support/#api-key
+
+Once you have your API key, you can proceed with the exercise.
+
+
+
+
+Run the script and enter a stock symbol to see the stock data.
+
+This exercise introduces you to the following concepts:
+
+Making HTTP requests using the requests library
+Handling JSON data
+Error handling
+Using API keys and working with APIs
+These skills are useful in a wide range of software development jobs, as they allow you to fetch and manipulate data from external sources.
